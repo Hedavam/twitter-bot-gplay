@@ -8,7 +8,11 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "git+https://github.com/Hedavam/twitter-bot-gplay.git"
+=======
+    "url": "git+https://github.com/Hedavam/Twitter-Bot.git"
+>>>>>>> b6ae6bb17744a6701638b5791b033605df5b42a6
   },
   "keywords": [
     "Twitter",
@@ -20,9 +24,15 @@
   "author": "Hedavam Solano <hedavamsolano@gmail.com>",
   "license": "ISC",
   "bugs": {
+<<<<<<< HEAD
     "url": "https://github.com/Hedavam/twitter-bot-gplay/issues"
   },
   "homepage": "https://github.com/Hedavam/twitter-bot-gplay#readme",
+=======
+    "url": "https://github.com/Hedavam/Twitter-Bot/issues"
+  },
+  "homepage": "https://github.com/Hedavam/Twitter-Bot#readme",
+>>>>>>> b6ae6bb17744a6701638b5791b033605df5b42a6
   "dependencies": {
     "twitter": "^1.7.1"
   }
