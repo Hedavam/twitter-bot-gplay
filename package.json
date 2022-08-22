@@ -1,0 +1,29 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "NodeJs Twitter Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hedavam/twitter-bot-gplay.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Twitter",
+    "Api",
+    "NodeJs",
+    "Bot"
+  ],
+  "author": "Hedavam Solano <hedavamsolano@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hedavam/twitter-bot-gplay/issues"
+  },
+  "homepage": "https://github.com/Hedavam/twitter-bot-gplay#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
